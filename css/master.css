@@ -3,3 +3,10 @@ img {
   width: 400px;
   length: 300px;
 }
+body {
+  color: ;
+  background-color: rgb(184, 181, 245);
+}
+.jumbotron {
+  background-color: rgb(255, 173, 198);
+}
